@@ -1,4 +1,4 @@
-# 国产手机上的隐私自保手册
+# 对于仍然坚持使用国产手机者的建议
 
 > 面向仍然使用国内定制 ROM（MIUI / HyperOS / ColorOS / OriginOS 等）的用户
 > 不要求 root、不要求刷机。需要Windows系统电脑，或于wifi环境中启用无线调试并输入配对码
